@@ -32,7 +32,7 @@ Transcriptome and  clinical analysis of basophil in SKCM
 
 # 依赖环境
 - 本研究基于R4.5.3版本
-- 包：`tidyverse`, `glmnet`, `survival`, `survminer`, `ggplot2`, `ggrepel`, `rms`, `Hmisc`, `survivalROC`, `clusterProfiler`, `org.Hs.eg.db`
+- 包："tidyverse", "glmnet", "survival", "survminer", "ggplot2", "ggrepel", "rms", "Hmisc", "survivalROC", "clusterProfiler", "org.Hs.eg.db"
 
 # 主要发现
 - **临床**：低风险组生存率显著更高（P < 0.0001）
